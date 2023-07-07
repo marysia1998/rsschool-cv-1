@@ -1,4 +1,15 @@
 
+nav ol li {
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 25px;
+}
+nav {
+    align-items: center;
+    background-color: darkgray;
+    padding: 10px 0px 10px 0px;
+    width:100%
+}
 .information {
     width: 100%;
 }
